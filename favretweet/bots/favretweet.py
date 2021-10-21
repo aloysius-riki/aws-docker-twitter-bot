@@ -43,4 +43,4 @@ def main(keywords):
     stream.filter(track=keywords)
 
 if __name__ == "__main__":
-    main(["ZjukamuAWSDevelopment", "ZjukamuBotDevelopment"])
+    main(["ZjukamuAWS", "ZjukamuBot"])

@@ -19,7 +19,6 @@
   <h3 align="center">AWS Docker Twitter Bot</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/zjukamu-riki/aws-docker-twitter-bot"><strong>Explore the docs »</strong></a>
     <br />
@@ -198,8 +197,6 @@ Project Link: [https://github.com/zjukamu-riki/aws-docker-twitter-bot](https://g
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)

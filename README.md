@@ -1,5 +1,3 @@
-# aws-docker-twitterbot
-A twitter bot built on AWS running on Docker
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -67,7 +65,7 @@ A twitter bot built on AWS running on Docker
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Zjukamu Bot Screen Shot][product-screenshot]](https://twitter.com/zjukamu_bot/)
 
 I created this twitter bot to try out the Twitter API via Tweepy and get a feel of what can be accomplished with it.
 
@@ -230,4 +228,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/zjukamu-riki/aws-docker-twitter-bot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zjukamu
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/zjukamu_bot_screenshot.png
